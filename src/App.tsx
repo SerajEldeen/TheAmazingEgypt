@@ -1,7 +1,7 @@
 import About from "./components/About";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
-import { Route, BrowserRouter as Router, Routes } from "react-router";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import PlacesToVisit from "./components/PlacesToVisit";
 import Cairo from "./Cities/Cairo";
 import Luxor from "./Cities/Luxor";
