@@ -13,7 +13,7 @@ const images: Image[] = [
     name: "Place 2",
   },
   {
-    src: "/place3.jpg",
+    src: "/Place3.jpg",
     name: "place 3",
   },
   {

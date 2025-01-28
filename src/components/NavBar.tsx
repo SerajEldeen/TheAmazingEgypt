@@ -4,7 +4,6 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import { IoIosCloseCircleOutline } from "react-icons/io";
 import navItems from "../constants/navItems";
 import Items from "../constants/Links";
-import Music from "../hooks/Music";
 
 export default function NavBar() {
   const [active, setActive] = useState<string>("");
@@ -16,7 +15,7 @@ export default function NavBar() {
     setActive(page);
   }
   return (
-    <nav className="px-9 pt-2 bg-stone-100  fixed w-full z-50 top-0   ">
+    <nav className="px-9 pt-2 bg-stone-100  fixed w-full z-20 top-0 ">
       <Link
         to="/"
         className="inline-block relative left-1/2 transform -translate-x-1/2 sm:left-auto sm:transform-none"
@@ -46,22 +45,19 @@ export default function NavBar() {
           ))}
         </ul>
       </div>
-      <Music />
-      <div className="cursor-pointer absolute right-6 top-2 sm:hidden   z-10 ">
+      <div className="cursor-pointer absolute right-6 top-2 sm:hidden z-10 ">
         {toggle && (
-          <>
-            <div className="relative">
-              <ul className="absolute -left-36 top-5 w-fit bg-stone-100 rounded-lg shadow-lg p-2">
-                {navItems.map((e, i) => (
-                  <li className={e.listStyle} key={i}>
-                    <a href={e.path} className={e.pathStyle}>
-                      {e.name}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </>
+          <div className="relative">
+            <ul className="absolute -left-36 top-5 w-fit bg-stone-100 rounded-lg shadow-lg p-2">
+              {navItems.map((e, i) => (
+                <li className={e.listStyle} key={i}>
+                  <Link to={e.path} className={e.pathStyle}>
+                    {e.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
         )}
         {toggle ? (
           <IoIosCloseCircleOutline

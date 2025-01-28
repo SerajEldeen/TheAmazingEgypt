@@ -20,9 +20,8 @@ function Music() {
 
     setIsPlaying(!isPlaying);
   };
-
   return (
-    <div className="absolute sm:relative sm:left-[95%] sm:-top-20 top-2 z-10 ">
+    <div className="fixed sm:left-[90%] left-5 sm:top-8 top-2 z-50 ">
       <button
         type="button"
         onClick={toggleMusic}
@@ -35,7 +34,10 @@ function Music() {
       </button>
 
       {showTooltip && (
-        <div className="absolute left-0 sm:-left-[50%] md:-left-[40%] lg:-left-[30%] xl:-left-[20%] sm:top-12 bg-stone-100 text-secondary text-sm px-3 py-2 rounded-lg shadow-lg w-36 sm:w-auto ">
+        <div
+          className="relative left-0 sm:-left-[75%] md:-left-[85%] lg:-left-[95%] xl:-left-[100%] sm:top-4
+        bg-stone-100 text-secondary text-sm px-3 py-2 rounded-lg shadow-lg sm:w-72 w-auto "
+        >
           <span className="hidden sm:inline">
             For a dreamy experience, kindly play this :)
           </span>

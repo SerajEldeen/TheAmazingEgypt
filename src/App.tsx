@@ -12,10 +12,12 @@ import Fayoum from "./Cities/Fayoum";
 import Matrouh from "./Cities/Matrouh";
 import PlacesLayout from "./components/PlacesLayout";
 import TopUp from "./hooks/TopUp";
+import Music from "./hooks/Music";
 
 export default function App() {
   return (
     <Router>
+      <Music />
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
