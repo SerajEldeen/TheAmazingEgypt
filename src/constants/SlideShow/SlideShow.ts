@@ -5,19 +5,19 @@ type Image = {
 
 const images: Image[] = [
   {
-    src: "/public/Place1.jpg",
+    src: "/Place1.jpg",
     name: "Place 1",
   },
   {
-    src: "/public/place2.jpg",
+    src: "/place2.jpg",
     name: "Place 2",
   },
   {
-    src: "/public/Place3.jpg",
+    src: "/Place3.jpg",
     name: "place 3",
   },
   {
-    src: "/public/Place4.png",
+    src: "/Place4.png",
     name: "place 4",
   },
 ];

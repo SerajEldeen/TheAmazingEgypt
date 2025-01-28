@@ -16,7 +16,7 @@ const sections: Section[] = [
     name: "Geography",
     content:
       "Located in northeastern Africa, Egypt is bordered by the Mediterranean Sea to the north, the Red Sea to the east, and the deserts to the west and south. The Nile River, the lifeblood of the nation, flows through the heart of Egypt, creating the fertile Nile Valley and Delta, where the majority of the population resides.",
-    ImgSrc: "/public/Geography.jpg",
+    ImgSrc: "/Geography.jpg",
     ImgName: "Geography of Egypt",
   },
   {
@@ -30,7 +30,7 @@ const sections: Section[] = [
     name: "Culture",
     content:
       "Egyptian culture is a vibrant blend of ancient traditions and modern influences. It is renowned for its contributions to art, literature, and architecture, from the majestic temples to contemporary music and film. Festivals and religious celebrations, such as Ramadan and Coptic Christmas, are central to Egyptian life, reflecting its deep spiritual roots.",
-    ImgSrc: "/public/Culture.jpg",
+    ImgSrc: "/Culture.jpg",
     ImgName: "Culture of Egypt",
   },
 

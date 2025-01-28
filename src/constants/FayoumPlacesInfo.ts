@@ -14,12 +14,12 @@ const PlacesInfo: FayoumPlaces[] = [
       "The calm surroundings, combined with the natural beauty of the lakes and desert, make it a peaceful retreat for visitors seeking a break from city life.",
     ],
     images: [
-      { no: "first-img", src: "/public/Fayoum/Fayoum1.jpg" },
-      { no: "second-img", src: "/public/Fayoum/Fayoum2.jpg" },
-      { no: "3rd-img", src: "/public/Fayoum/Fayoum3.jpg" },
-      { no: "4th-img", src: "/public/Fayoum/Fayoum4.jpg" },
-      { no: "5th-img", src: "/public/Fayoum/Fayoum5.jpg" },
-      { no: "6th-img", src: "/public/Fayoum/Fayoum6.jpg" },
+      { no: "first-img", src: "/Fayoum/Fayoum1.jpg" },
+      { no: "second-img", src: "/Fayoum/Fayoum2.jpg" },
+      { no: "3rd-img", src: "/Fayoum/Fayoum3.jpg" },
+      { no: "4th-img", src: "/Fayoum/Fayoum4.jpg" },
+      { no: "5th-img", src: "/Fayoum/Fayoum5.jpg" },
+      { no: "6th-img", src: "/Fayoum/Fayoum6.jpg" },
     ],
   },
   {
@@ -32,10 +32,10 @@ const PlacesInfo: FayoumPlaces[] = [
       "Visitors can explore the desert landscape through hiking, 4x4 safaris, and camping under the stars, making it a destination for both education and adventure.",
     ],
     images: [
-      { no: "first-img", src: "/public/Fayoum/Fayoum7.jpg" },
-      { no: "second-img", src: "/public/Fayoum/Fayoum8.jpg" },
-      { no: "3rd-img", src: "/public/Fayoum/Fayoum9.jpg" },
-      { no: "4th-img", src: "/public/Fayoum/Fayoum10.jpg" },
+      { no: "first-img", src: "/Fayoum/Fayoum7.jpg" },
+      { no: "second-img", src: "/Fayoum/Fayoum8.jpg" },
+      { no: "3rd-img", src: "/Fayoum/Fayoum9.jpg" },
+      { no: "4th-img", src: "/Fayoum/Fayoum10.jpg" },
     ],
   },
   {
@@ -47,9 +47,9 @@ const PlacesInfo: FayoumPlaces[] = [
       " Surrounded by picturesque desert landscapes, the lake provides a serene setting for nature lovers and photographers.",
     ],
     images: [
-      { no: "first-img", src: "/public/Fayoum/Fayoum11.jpg" },
-      { no: "second-img", src: "/public/Fayoum/Fayoum12.jpg" },
-      { no: "3rd-img", src: "/public/Fayoum/Fayoum13.jpg" },
+      { no: "first-img", src: "/Fayoum/Fayoum11.jpg" },
+      { no: "second-img", src: "/Fayoum/Fayoum12.jpg" },
+      { no: "3rd-img", src: "/Fayoum/Fayoum13.jpg" },
     ],
   },
   {
@@ -61,9 +61,9 @@ const PlacesInfo: FayoumPlaces[] = [
       "The Hawara Pyramid is a significant example of Middle Kingdom pyramid construction, reflecting the period's shift in architectural style and materials.",
     ],
     images: [
-      { no: "first-img", src: "/public/Fayoum/Fayoum14.jpg" },
-      { no: "second-img", src: "/public/Fayoum/Fayoum15.jpg" },
-      { no: "3rd-img", src: "/public/Fayoum/Fayoum16.jpg" },
+      { no: "first-img", src: "/Fayoum/Fayoum14.jpg" },
+      { no: "second-img", src: "/Fayoum/Fayoum15.jpg" },
+      { no: "3rd-img", src: "/Fayoum/Fayoum16.jpg" },
     ],
   },
 ];

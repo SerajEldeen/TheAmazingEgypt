@@ -14,11 +14,11 @@ const PlacesInfo: MatrouhPlaces[] = [
       "Siwa’s remote location makes it ideal for stargazing, offering breathtaking views of the night sky.",
     ],
     images: [
-      { no: "first-img", src: "/public/Matrouh/Matrouh1.jpg" },
-      { no: "second-img", src: "/public/Matrouh/Matrouh2.jpg" },
-      { no: "3rd-img", src: "/public/Matrouh/Matrouh3.jpg" },
-      { no: "4th-img", src: "/public/Matrouh/Matrouh4.jpg" },
-      { no: "5th-img", src: "/public/Matrouh/Matrouh5.jpg" },
+      { no: "first-img", src: "/Matrouh/Matrouh1.jpg" },
+      { no: "second-img", src: "/Matrouh/Matrouh2.jpg" },
+      { no: "3rd-img", src: "/Matrouh/Matrouh3.jpg" },
+      { no: "4th-img", src: "/Matrouh/Matrouh4.jpg" },
+      { no: "5th-img", src: "/Matrouh/Matrouh5.jpg" },
     ],
   },
   {
@@ -30,10 +30,10 @@ const PlacesInfo: MatrouhPlaces[] = [
       "The beach’s natural beauty makes it a favorite for nature lovers and adventurers who enjoy exploring its caves and rugged cliffs.",
     ],
     images: [
-      { no: "first-img", src: "/public/Matrouh/Matrouh6.jpg" },
-      { no: "second-img", src: "/public/Matrouh/Matrouh7.jpg" },
-      { no: "3rd-img", src: "/public/Matrouh/Matrouh8.jpg" },
-      { no: "4th-img", src: "/public/Matrouh/Matrouh9.jpg" },
+      { no: "first-img", src: "/Matrouh/Matrouh6.jpg" },
+      { no: "second-img", src: "/Matrouh/Matrouh7.jpg" },
+      { no: "3rd-img", src: "/Matrouh/Matrouh8.jpg" },
+      { no: "4th-img", src: "/Matrouh/Matrouh9.jpg" },
     ],
   },
   {
@@ -45,9 +45,9 @@ const PlacesInfo: MatrouhPlaces[] = [
       "urrounded by picturesque landscapes, Cleopatra Beach offers a serene setting for picnics, lounging, and scenic walks along the shore.",
     ],
     images: [
-      { no: "first-img", src: "/public/Matrouh/Matrouh10.jpg" },
-      { no: "second-img", src: "/public/Matrouh/Matrouh11.jpg" },
-      { no: "3rd-img", src: "/public/Matrouh/Matrouh12.jpg" },
+      { no: "first-img", src: "/Matrouh/Matrouh10.jpg" },
+      { no: "second-img", src: "/Matrouh/Matrouh11.jpg" },
+      { no: "3rd-img", src: "/Matrouh/Matrouh12.jpg" },
     ],
   },
   {
@@ -59,10 +59,10 @@ const PlacesInfo: MatrouhPlaces[] = [
       "Due to its isolation, the White Desert offers an unspoiled natural experience, providing a sense of tranquility and connection to the ancient desert landscape.",
     ],
     images: [
-      { no: "first-img", src: "/public/Matrouh/Matrouh13.jpg" },
-      { no: "second-img", src: "/public/Matrouh/Matrouh14.jpg" },
-      { no: "3rd-img", src: "/public/Matrouh/Matrouh15.jpg" },
-      { no: "4th-img", src: "/public/Matrouh/Matrouh16.jpg" },
+      { no: "first-img", src: "/Matrouh/Matrouh13.jpg" },
+      { no: "second-img", src: "/Matrouh/Matrouh14.jpg" },
+      { no: "3rd-img", src: "/Matrouh/Matrouh15.jpg" },
+      { no: "4th-img", src: "/Matrouh/Matrouh16.jpg" },
     ],
   },
   {
@@ -74,10 +74,10 @@ const PlacesInfo: MatrouhPlaces[] = [
       "Enjoy traditional Bedouin music and dance performances, where local musicians play instruments like the rababa and tabla, and visitors may even be invited to join in.",
     ],
     images: [
-      { no: "first-img", src: "/public/Matrouh/Matrouh17.jpg" },
-      { no: "second-img", src: "/public/Matrouh/Matrouh18.jpg" },
-      { no: "3rd-img", src: "/public/Matrouh/Matrouh19.webp" },
-      { no: "4th-img", src: "/public/Matrouh/Matrouh20.jpg" },
+      { no: "first-img", src: "/Matrouh/Matrouh17.jpg" },
+      { no: "second-img", src: "/Matrouh/Matrouh18.jpg" },
+      { no: "3rd-img", src: "/Matrouh/Matrouh19.webp" },
+      { no: "4th-img", src: "/Matrouh/Matrouh20.jpg" },
     ],
   },
 ];

@@ -15,10 +15,10 @@ const PlacesInfo: AswanPlaces[] = [
       "The Great Temple is aligned so that sunlight illuminates the inner sanctum twice a year (February 22 and October 22), lighting up statues of the gods and Ramses II.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan1.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan2.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan3.jpg" },
-      { no: "4th-img", src: "/public/Aswan/Aswan4.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan1.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan2.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan3.jpg" },
+      { no: "4th-img", src: "/Aswan/Aswan4.jpg" },
     ],
   },
   {
@@ -31,9 +31,9 @@ const PlacesInfo: AswanPlaces[] = [
       "Famous for its Sound and Light Show, which highlights its history and mythology.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan5.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan6.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan7.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan5.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan6.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan7.jpg" },
     ],
   },
   {
@@ -46,9 +46,9 @@ const PlacesInfo: AswanPlaces[] = [
       "A symbol of modern Egyptian engineering and a key landmark in Aswan.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan8.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan9.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan10.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan8.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan9.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan10.jpg" },
     ],
   },
   {
@@ -60,9 +60,9 @@ const PlacesInfo: AswanPlaces[] = [
       "Offers stunning views of Lake Nasser and is a peaceful, less-crowded alternative to other Aswan temples.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan11.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan12.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan13.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan11.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan12.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan13.jpg" },
     ],
   },
   {
@@ -74,10 +74,10 @@ const PlacesInfo: AswanPlaces[] = [
       "Known for its detailed reliefs, including ancient medical instruments and a calendar of festivals.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan14.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan15.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan16.jpg" },
-      { no: "4th-img", src: "/public/Aswan/Aswan17.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan14.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan15.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan16.jpg" },
+      { no: "4th-img", src: "/Aswan/Aswan17.jpg" },
     ],
   },
   {
@@ -90,10 +90,10 @@ const PlacesInfo: AswanPlaces[] = [
       "A key stop for Nile River cruises and a major tourist attraction in Upper Egypt.",
     ],
     images: [
-      { no: "first-img", src: "/public/Aswan/Aswan18.jpg" },
-      { no: "second-img", src: "/public/Aswan/Aswan19.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan20.jpg" },
-      { no: "4th-img", src: "/public/Aswan/Aswan21.jpg" },
+      { no: "first-img", src: "/Aswan/Aswan18.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan19.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan20.jpg" },
+      { no: "4th-img", src: "/Aswan/Aswan21.jpg" },
     ],
   },
   {
@@ -106,9 +106,9 @@ const PlacesInfo: AswanPlaces[] = [
       "A must-do activity for visitors to Aswan, providing a glimpse into traditional Egyptian life",
     ],
     images: [
-      { no: "second-img", src: "/public/Aswan/Aswan22.jpg" },
-      { no: "third-img", src: "/public/Aswan/Aswan23.jpg" },
-      { no: "4th-img", src: "/public/Aswan/Aswan24.jpg" },
+      { no: "second-img", src: "/Aswan/Aswan22.jpg" },
+      { no: "third-img", src: "/Aswan/Aswan23.jpg" },
+      { no: "4th-img", src: "/Aswan/Aswan24.jpg" },
     ],
   },
 ];

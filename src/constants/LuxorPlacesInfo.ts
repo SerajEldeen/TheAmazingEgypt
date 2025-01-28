@@ -17,10 +17,10 @@ const PlacesInfo: LuxorPlaces[] = [
       " The temple features a large sacred lake, believed to have been used for purification rituals by the priests.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor1.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor2.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor3.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor4.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor1.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor2.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor3.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor4.jpg" },
     ],
   },
   {
@@ -35,9 +35,9 @@ const PlacesInfo: LuxorPlaces[] = [
       " Luxor Temple is one of the most visited ancient sites in Egypt, with many of its original features still intact.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor5.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor6.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor7.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor5.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor6.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor7.jpg" },
     ],
   },
   {
@@ -52,8 +52,8 @@ const PlacesInfo: LuxorPlaces[] = [
       "Tourists can explore several tombs, though many are restricted to preserve their integrity. The tomb of Ramses VI and the tomb of Seti I are popular among visitors.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor8.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor9.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor8.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor9.jpg" },
     ],
   },
   {
@@ -68,10 +68,10 @@ const PlacesInfo: LuxorPlaces[] = [
       "Excavations in the Valley of the Queens have uncovered significant artifacts, giving insights into royal life, burial customs, and religious practices of ancient Egypt.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor10.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor11.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor12.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor13.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor10.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor11.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor12.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor13.jpg" },
     ],
   },
   {
@@ -83,9 +83,9 @@ const PlacesInfo: LuxorPlaces[] = [
       "Heavily eroded but still iconic symbols of ancient Egypt.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor14.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor15.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor16.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor14.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor15.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor16.jpg" },
     ],
   },
   {
@@ -97,10 +97,10 @@ const PlacesInfo: LuxorPlaces[] = [
       "Known for its stunning reliefs depicting her reign and trade expeditions, including the famous voyage to Punt.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor17.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor18.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor19.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor20.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor17.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor18.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor19.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor20.jpg" },
     ],
   },
   {
@@ -113,10 +113,10 @@ const PlacesInfo: LuxorPlaces[] = [
       "A key archaeological site and tourist attraction in Luxor.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor21.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor22.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor23.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor24.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor21.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor22.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor23.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor24.jpg" },
     ],
   },
   {
@@ -129,9 +129,9 @@ const PlacesInfo: LuxorPlaces[] = [
       "A well-preserved and significant archaeological site, attracting historians and tourists.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor25.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor26.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor27.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor25.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor26.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor27.jpg" },
     ],
   },
 
@@ -145,11 +145,11 @@ const PlacesInfo: LuxorPlaces[] = [
       "A must-visit for history enthusiasts exploring Luxor’s ancient heritage.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor28.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor29.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor30.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor31.jpg" },
-      { no: "5th-img", src: "/public/Luxor/Luxor32.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor28.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor29.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor30.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor31.jpg" },
+      { no: "5th-img", src: "/Luxor/Luxor32.jpg" },
     ],
   },
   {
@@ -162,10 +162,10 @@ const PlacesInfo: LuxorPlaces[] = [
       "A popular tourist activity, combining entertainment with education.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor33.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor34.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor35.jpg" },
-      { no: "4th-img", src: "/public/Luxor/Luxor36.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor33.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor34.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor35.jpg" },
+      { no: "4th-img", src: "/Luxor/Luxor36.jpg" },
     ],
   },
 
@@ -179,9 +179,9 @@ const PlacesInfo: LuxorPlaces[] = [
       "A must-visit for tourists looking for unique gifts and a lively shopping experience.",
     ],
     images: [
-      { no: "first-img", src: "/public/Luxor/Luxor37.jpg" },
-      { no: "second-img", src: "/public/Luxor/Luxor38.jpg" },
-      { no: "third-img", src: "/public/Luxor/Luxor39.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor37.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor38.jpg" },
+      { no: "third-img", src: "/Luxor/Luxor39.jpg" },
     ],
   },
 ];
