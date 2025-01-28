@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { MapContainer, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 
@@ -7,6 +7,16 @@ const EgyptMap: React.FC = () => {
     [22.0, 24.7],
     [31.7, 36.9],
   ];
+  const [isMobile, setIsMobile] = useState<boolean>(window.innerWidth < 640);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 640);
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
 
   return (
     <div className="flex justify-center items-center ">
@@ -16,11 +26,12 @@ const EgyptMap: React.FC = () => {
         </h1>
         <MapContainer
           center={[26.8206, 30.8025]}
-          zoom={6}
+          zoom={isMobile ? 5 : 6}
           scrollWheelZoom={false}
           className="w-full h-full"
           maxBounds={egyptBounds}
-          minZoom={6}
+          minZoom={isMobile ? 5 : 6}
+          dragging={isMobile ? false : true}
           attributionControl={false}
         >
           <TileLayer
