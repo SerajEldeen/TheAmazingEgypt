@@ -50,7 +50,7 @@ export default function NavBar() {
           <div className="relative">
             <ul className="absolute -left-36 top-5 w-fit bg-stone-100 rounded-lg shadow-lg p-2">
               {navItems.map((e, i) => (
-                <li className={e.listStyle} key={i}>
+                <li className={e.listStyle} key={i} onClick={handleToggle}>
                   <Link to={e.path} className={e.pathStyle}>
                     {e.name}
                   </Link>

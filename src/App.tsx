@@ -13,10 +13,12 @@ import Matrouh from "./Cities/Matrouh";
 import PlacesLayout from "./components/PlacesLayout";
 import TopUp from "./hooks/TopUp";
 import Music from "./hooks/Music";
+import ScrollToTop from "./hooks/ScrollToTop";
 
 export default function App() {
   return (
     <Router>
+      <ScrollToTop />
       <Music />
       <NavBar />
       <Routes>
