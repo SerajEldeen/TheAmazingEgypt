@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import Cities from "../constants/Cities";
 import { InView } from "react-intersection-observer";
 
