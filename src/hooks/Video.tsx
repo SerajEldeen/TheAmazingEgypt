@@ -14,6 +14,7 @@ export default function Video() {
         muted
         loop
         className="max-h-[500px] "
+        preload="auto"
       />
     </div>
   );
