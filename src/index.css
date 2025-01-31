@@ -24,3 +24,7 @@
   border-radius: 8px;
   background-color: #f59e0b;
 }
+::selection {
+  background: #f59e0b;
+  color: #fff;
+}

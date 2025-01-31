@@ -21,7 +21,7 @@ function Music() {
     setIsPlaying(!isPlaying);
   };
   return (
-    <div className="fixed sm:left-[90%] left-5 sm:top-8 top-2 z-50 ">
+    <div className="fixed sm:left-[90%] left-5 sm:top-8 top-2 z-50 animate-pulse hover:animate-none  ">
       <button
         type="button"
         onClick={toggleMusic}

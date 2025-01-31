@@ -22,7 +22,7 @@ export default function NavBar() {
         onClick={() => handleActive("/")}
       >
         <img
-          src="/Logo.webp"
+          src="/Logo.png"
           alt="logo"
           className="w-[50px] h-[50px] sm:w-[65px] sm:h-[65px] rounded-full transition-transform duration-300 hover:scale-110"
         />

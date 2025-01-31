@@ -14,7 +14,6 @@ const PlacesInfo: LuxorPlaces[] = [
       "Covers over 100 hectares, making it a vast and impressive complex of temples, chapels, pylons, and other structures.",
       "Famous for its 134 massive columns, each over 10 meters tall, arranged in 16 rows, creating a spectacular visual effect.",
       "The temple features a large sacred lake, believed to have been used for purification rituals by the priests.",
-      " The temple features a large sacred lake, believed to have been used for purification rituals by the priests.",
     ],
     images: [
       { no: "first-img", src: "/Luxor/Luxor1.jpg" },
@@ -28,7 +27,7 @@ const PlacesInfo: LuxorPlaces[] = [
     points: [
       "Part of the Luxor UNESCO World Heritage Site, along with nearby sites like Karnak Temple and the Valley of the Kings.",
       "Built during the New Kingdom period (around 1400 BCE), it was expanded by several pharaohs, including Amenhotep III and Ramesses II.",
-      "he temple consists of an entrance pylon, a large courtyard, a hypostyle hall, and a sanctuary. It’s known for its grand, monumental entrance with giant statues of Ramses II.",
+      "The temple consists of an entrance pylon, a large courtyard, a hypostyle hall, and a sanctuary. It’s known for its grand, monumental entrance with giant statues of Ramses II.",
       "The Luxor Temple was originally connected to the Karnak Temple by the Avenue of Sphinxes, a ceremonial pathway lined with sphinx statues.",
       "Two obelisks once stood at the entrance, one of which is now located in Place de la Concorde in Paris.",
       "The temple is beautifully lit at night, enhancing its grandeur and making it a popular spot for evening visits.",
@@ -47,7 +46,7 @@ const PlacesInfo: LuxorPlaces[] = [
       "The Valley of the Kings was used as a burial site for pharaohs and powerful nobles of the New Kingdom (around 1539–1075 BCE), including famous rulers like Tutankhamun, Ramses II, and Seti I.",
       "The valley contains 63 known tombs carved into the mountainside, each with intricate murals, hieroglyphs, and royal burial items. The tombs are spread across two valleys: East Valley (where most of the royal tombs are located) and West Valley.",
       " The tombs are famous for their well-preserved wall paintings, depicting scenes of the afterlife, gods, and funeral rituals, providing insight into ancient Egyptian beliefs and practices.",
-      "The tomb of Tutankhamun is the most famous and significant discovery in the valley, largely due to the treasures found in 1922 by Howard Carter.",
+      "The tomb of Tutankhamun is the most famous and significant discovery in the valley, largely due to the treasures found in 1922.",
       "The tombs were constructed to be hidden and well-guarded, to prevent tomb robbing. Despite this, many tombs were looted in ancient times.",
       "Tourists can explore several tombs, though many are restricted to preserve their integrity. The tomb of Ramses VI and the tomb of Seti I are popular among visitors.",
     ],
@@ -59,12 +58,12 @@ const PlacesInfo: LuxorPlaces[] = [
   {
     header: "Valley of the Queens",
     points: [
-      "the Valley of the Queens is part of the Theban Necropolis and is a UNESCO World Heritage Site, recognized for its historical and cultural importance.",
-      "the Valley of the Queens is where queens, royal wives, and noblewomen were buried.",
+      "The Valley of the Queens is part of the Theban Necropolis and is a UNESCO World Heritage Site, recognized for its historical and cultural importance.",
+      "The Valley of the Queens is where queens, royal wives, and noblewomen were buried.",
       "The valley contains over 90 tombs, with some of the most famous being the Tomb of Nefertari, the wife of Ramses II, known for its stunningly preserved wall paintings.",
       "The tombs are richly decorated with vibrant frescoes, hieroglyphics, and reliefs, depicting scenes from Egyptian mythology, the afterlife, and daily life.",
       " Known for its exceptional beauty and the vivid preservation of its wall paintings, the tomb of Nefertari is often regarded as one of the most beautiful tombs in Egypt.",
-      "the Valley of the Queens offers a more peaceful and less crowded experience for visitors exploring ancient Egyptian burial sites.",
+      "The Valley of the Queens offers a more peaceful and less crowded experience for visitors exploring ancient Egyptian burial sites.",
       "Excavations in the Valley of the Queens have uncovered significant artifacts, giving insights into royal life, burial customs, and religious practices of ancient Egypt.",
     ],
     images: [
@@ -89,12 +88,12 @@ const PlacesInfo: LuxorPlaces[] = [
     ],
   },
   {
-    header: "Hatshepsut Temple",
+    header: "El-Der El-Bahary Temple",
     points: [
-      "Built during the 15th century BCE for Queen Hatshepsut, one of Egypt’s few female pharaohs.",
+      "Built during the 15th century BCE for Queen Hatshepsut, one of Egypt’s strong female pharaohs known for the strength of her army.",
+      "Queen Hatshepsut is known for her peaceful reign, both internally and externally, and for the famous voyage to Punt.",
       "Designed by her architect Senenmut, featuring a unique terraced structure.",
-      "Dedicated to the god Amun and Hatshepsut’s mortuary cult.",
-      "Known for its stunning reliefs depicting her reign and trade expeditions, including the famous voyage to Punt.",
+      "It is engraved inside the mountain.",
     ],
     images: [
       { no: "first-img", src: "/Luxor/Luxor17.jpg" },
@@ -129,8 +128,8 @@ const PlacesInfo: LuxorPlaces[] = [
       "A well-preserved and significant archaeological site, attracting historians and tourists.",
     ],
     images: [
-      { no: "first-img", src: "/Luxor/Luxor25.jpg" },
-      { no: "second-img", src: "/Luxor/Luxor26.jpg" },
+      { no: "first-img", src: "/Luxor/Luxor26.jpg" },
+      { no: "second-img", src: "/Luxor/Luxor25.jpg" },
       { no: "third-img", src: "/Luxor/Luxor27.jpg" },
     ],
   },

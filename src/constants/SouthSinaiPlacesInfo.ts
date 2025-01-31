@@ -30,7 +30,6 @@ const PlacesInfo: SouthSinaiPlaces[] = [
       "Popular for its vibrant coral reefs, Nuweiba offers excellent diving and snorkeling opportunities, with sites like Coral Island and the nearby Ras Abu Gallum.",
       "Nuweiba offers a quieter, more laid-back atmosphere, ideal for relaxation and nature lovers.",
       "Visitors can experience the Bedouin lifestyle, including traditional hospitality, cuisine, and cultural experiences, with many locals offering tours and services.",
-      "Its combination of natural beauty, tranquility, and eco-friendly options makes Nuweiba a growing destination for eco-tourism and nature-based travel.",
     ],
     images: [
       { no: "first-img", src: "/SouthSinai/SouthSinai8.jpg" },
@@ -58,7 +57,7 @@ const PlacesInfo: SouthSinaiPlaces[] = [
     header: "Mount St. Catherine",
     points: [
       " At 2,629 meters (8,625 feet), Mount St. Catherine is the highest mountain in the Sinai Peninsula and one of Egypt’s most important natural landmarks.",
-      "St. Catherine's Monastery, a UNESCO World Heritage Site, and the Mount Sinai, where Moses is believed to have received the Ten Commandments.",
+      "St. Catherine's Monastery, a UNESCO World Heritage Site, and the Mount Sinai.",
       "Popular for hiking, the mountain offers several trekking routes, with the most common being the sunrise hike to catch a breathtaking view of the surrounding desert and mountains.",
       "Despite being located in a desert region, Mount St. Catherine experiences a much cooler climate due to its altitude, with temperatures often dropping significantly at night.",
     ],

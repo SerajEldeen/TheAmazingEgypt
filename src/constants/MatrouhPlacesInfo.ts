@@ -24,7 +24,7 @@ const PlacesInfo: MatrouhPlaces[] = [
   {
     header: "Ageba Beach",
     points: [
-      ": Known for its unique rock formations and stunning cliffs that rise dramatically from the sea.",
+      "Known for its unique rock formations and stunning cliffs that rise dramatically from the sea.",
       "Famous for its crystal-clear waters that shimmer in shades of turquoise and blue, perfect for swimming and photography.",
       "The soft, golden sands of the beach provide a serene spot for relaxation and sunbathing.",
       "The beach’s natural beauty makes it a favorite for nature lovers and adventurers who enjoy exploring its caves and rugged cliffs.",
@@ -42,7 +42,6 @@ const PlacesInfo: MatrouhPlaces[] = [
       "Named after Cleopatra VII, the famous Egyptian queen, who is said to have visited the beach. It is believed she swam in its crystal-clear waters.",
       "The beach is known for its calm, shallow waters, making it ideal for swimming and families.",
       "The clear waters make it an ideal location for snorkeling, diving, and other water activities.",
-      "urrounded by picturesque landscapes, Cleopatra Beach offers a serene setting for picnics, lounging, and scenic walks along the shore.",
     ],
     images: [
       { no: "first-img", src: "/Matrouh/Matrouh10.jpg" },

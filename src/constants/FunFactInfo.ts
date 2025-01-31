@@ -14,14 +14,14 @@ const Points: Facts[] = [
   {
     photoName: "Two Wonders in the World",
     PhotoSrc: "/lighthouse.jpg",
-    parg: "Egypt is home to two iconic wonders: the Great Pyramid of Giza, the only surviving wonder of the ancient world, and the Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World. The Lighthouse once stood as a beacon of engineering brilliance but was finally destroyed by earthquakes at the beginning of the 1400s. ",
+    parg: "Egypt is home to two iconic wonders: the Great Pyramid of Giza, the only surviving wonder of the ancient world, and the Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World. The Lighthouse once stood as a beacon of engineering brilliance but was destroyed by earthquakes at the beginning of the 1400s.",
     headline: "Two Wonders in the World",
   },
   {
-    photoName: "Pyramids Weren’t Built by Slaves",
+    photoName: "The brilliant engineering behind the pyramids",
     PhotoSrc: "/Pyramid-Workers.jpg",
-    parg: "The pyramids were constructed by skilled workers, not slaves, showcasing the expertise and dedication of ancient Egyptians. ",
-    headline: "Pyramids Weren’t Built by Slaves",
+    parg: "The pyramids were constructed by skilled workers, showcasing the expertise and dedication of ancient Egyptians. ",
+    headline: "The brilliant engineering behind the pyramids",
   },
   {
     photoName: "Invented the Calendar",
@@ -50,7 +50,7 @@ const Points: Facts[] = [
   {
     photoName: "Population",
     PhotoSrc: "/Population.jpg",
-    parg: "Egypt, the most populous Arab country, is home to over 110 million people known for their hospitality and resilience. ",
+    parg: "Egypt, A culturally rich country, is home to over 110 million people known for their hospitality and resilience. ",
     headline: "Population",
   },
   {
@@ -60,10 +60,10 @@ const Points: Facts[] = [
     headline: "Egyptian Cuisine",
   },
   {
-    photoName: "Egypt Is Very Cheap",
+    photoName: "Egypt is budget friendly",
     PhotoSrc: "/Egyptian money.jpg",
     parg: "Visiting Egypt is a budget-friendly adventure that doesn't compromise on experiences. From exploring the majestic pyramids and ancient temples to enjoying serene Nile cruises and vibrant bazaars, Egypt offers unforgettable memories at an exceptionally low cost, making it a dream destination for travelers. ",
-    headline: "Egypt Is Very Cheap",
+    headline: "Egypt is budget friendly",
   },
 ];
 export default Points;

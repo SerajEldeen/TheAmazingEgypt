@@ -8,7 +8,7 @@ const sections: Section[] = [
   {
     name: "history",
     content:
-      "Egypt  history dates back over 5,000 years, marked by the rise of the ancient Egyptian civilization, the construction of the Great Pyramids, and its pivotal role in the development of writing, mathematics, and governance. Egypt's history also includes periods of Greek, Roman, Islamic, and Ottoman influence, shaping its unique heritage.",
+      "Egypt  history dates back over 7,000 years, marked by the rise of the ancient Egyptian civilization, the construction of the Great Pyramids, and its pivotal role in the development of writing, mathematics, and governance. Egypt's history also includes periods of Greek, Roman, Coptic, and Islamic, shaping its unique heritage.",
     ImgSrc: "/history.jpg",
     ImgName: "History of Egypt",
   },
@@ -37,7 +37,7 @@ const sections: Section[] = [
   {
     name: "People",
     content:
-      "The people of Egypt are known for their warmth, hospitality, and resilience. Family ties are deeply valued, and social gatherings play a significant role in daily life. While predominantly Muslim, Egypt also has a significant Christian community, fostering a society that reflects both unity and coexistence.",
+      "The people of Egypt are known for their warmth, hospitality, and resilience. Family ties are deeply valued, and social gatherings play a significant role in daily life, Fostering a society that reflects both unity and coexistence.",
     ImgSrc: "/People.jpg",
     ImgName: "People of Egypt",
   },

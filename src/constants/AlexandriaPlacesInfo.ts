@@ -7,9 +7,9 @@ const PlacesInfo: AlexandriaPlaces[] = [
   {
     header: "Bibliotheca Alexandria",
     points: [
-      "Built in 2002, the Bibliotheca Alexandrina is a modern reimagining of the ancient Library of Alexandria, one of the greatest libraries of antiquity.",
+      "Built in 2002, the Bibliotheca Alexandrina is a modern reimagining of the ancient Library of Alexandria, one of the greatest libraries.",
       "Designed to resemble a rising sun, its tilted circular design is a blend of modern and ancient styles, symbolizing the continuity of knowledge.",
-      "Houses millions of books in multiple languages, serving as a global hub for learning and research, with a focus on history, culture, and science.",
+      "Houses millions of books in multiple languages, serving as a global hub for learning and research.",
       "The complex includes multiple museums, such as the Museum of Antiquities and the Manuscript Museum, alongside art galleries and a planetarium.",
       "Serves as a research hub, offering programs and conferences on science, arts, and literature, attracting scholars from around the world.",
       "A symbol of Egypt's commitment to reviving Alexandria's historical status as a center of knowledge and innovation.",
@@ -47,8 +47,7 @@ const PlacesInfo: AlexandriaPlaces[] = [
     header: "Montaza Palace and Gardens",
     points: [
       "Constructed in the late 19th century by Khedive Abbas II as a summer retreat for the Egyptian royal family.",
-      "The palace showcases a unique mix of Ottoman, Moorish, and Florentine architectural styles, making it an artistic marvel.",
-      "The surrounding gardens span over 370 acres, featuring lush greenery, exotic plants, and manicured landscapes, ideal for relaxation and leisure.",
+      "The surrounding gardens span over 370 acres, featuring lush greenery, exotic plants, and landscapes, ideal for relaxation and leisure.",
       "Includes two palaces—Al-Haramlik Palace, designed for the royal family, and Al-Salamlek Palace, initially built as a hunting lodge.",
       "The Montaza Palace and Gardens symbolize Alexandria's historical opulence and natural beauty, making it a top tourist destination.",
       " Visitors can enjoy picnics, leisurely strolls, and photography in the scenic gardens, as well as explore nearby beaches and restaurants",
@@ -99,10 +98,8 @@ const PlacesInfo: AlexandriaPlaces[] = [
     header: "Stanley Bridge",
     points: [
       "Opened in 2001, Stanley Bridge is one of Alexandria’s most recognizable and iconic structures, blending modern infrastructure with traditional aesthetics.",
-      "Features a Moorish design with elegant arches, decorative lamps, and charming tower pavilions that evoke the city's historical charm.",
       "A favorite for both locals and tourists for sunset views, casual strolls, and photography.",
       "Illuminated with decorative lights at night, the bridge becomes a picturesque scene, ideal for evening outings.",
-      "An essential stop for anyone exploring Alexandria’s seaside attractions.",
     ],
     images: [
       { no: "first-img", src: "/Alexandria/Alexandria29.jpg" },

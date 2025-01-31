@@ -9,10 +9,10 @@ const PlacesInfo: AswanPlaces[] = [
     header: "Abu Simbel Temple",
     points: [
       "A UNESCO World Heritage Site and one of Egypt’s most iconic landmarks.",
-      "Built by Pharaoh Ramses II in the 13th century BCE to commemorate his victory at the Battle of Kadesh and to honor the gods Amun, Ra-Horakhty, Ptah, and himself.",
+      "Built by Pharaoh Ramses II in the 13th century BCE to commemorate his victory at the Battle of Kadesh.",
       "Consists of two temples, the Great Temple (dedicated to Ramses II) and the Small Temple (dedicated to his wife, Queen Nefertari).",
       "Famous for the four colossal statues of Ramses II at the entrance, each 20 meters (65 feet) tall.",
-      "The Great Temple is aligned so that sunlight illuminates the inner sanctum twice a year (February 22 and October 22), lighting up statues of the gods and Ramses II.",
+      "The Great Temple is aligned so that sunlight illuminates the inner sanctum twice a year (February 22 and October 22), lighting up statues of Ramses II.",
     ],
     images: [
       { no: "first-img", src: "/Aswan/Aswan1.jpg" },
